@@ -22,7 +22,7 @@ www/assets/　フォルダ内に、
 data/images.json  
 img/moon.jpg  
 img/rainbow.jpg  
-img/sakura.jpg  
+img/sakura.jpg  
 のように追加してから、  
 
     $ ionic serve
