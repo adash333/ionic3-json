@@ -2,7 +2,7 @@
 
 ionic3でアプリ内部にjsonファイルを用いた例
 
-詳細は以下
+詳細は以下  
 http://twosquirrel.mints.ne.jp/?p=17553
 
 ## Requirement
@@ -17,12 +17,12 @@ http://twosquirrel.mints.ne.jp/?p=17553
     $ npm install @ionic/app-scripts@latest --save-dev
     $ npm install
 
-www/assets/　フォルダ内に、
-data/images.json
-img/moon.jpg
-    rainbow.jpg
-    sakura.jpg
-を追加してから、
+www/assets/　フォルダ内に、  
+data/images.json  
+img/moon.jpg  
+    rainbow.jpg  
+    sakura.jpg  
+を追加してから、  
 
     $ ionic serve
 
