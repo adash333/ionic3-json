@@ -17,12 +17,13 @@ http://twosquirrel.mints.ne.jp/?p=17553
     $ npm install @ionic/app-scripts@latest --save-dev
     $ npm install
 
+www2/ フォルダ内にある下記４つのファイルを、それぞれ、  
 www/assets/　フォルダ内に、  
 data/images.json  
 img/moon.jpg  
 img/rainbow.jpg  
-img/sakura.jpg  
-を追加してから、  
+img/sakura.jpg  
+のように追加してから、  
 
     $ ionic serve
 
