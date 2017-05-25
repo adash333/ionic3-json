@@ -19,10 +19,10 @@ http://twosquirrel.mints.ne.jp/?p=17553
 
 www2/ フォルダ内にある下記４つのファイルを、それぞれ、  
 www/assets/　フォルダ内に、  
-data/images.json  
-img/moon.jpg  
-img/rainbow.jpg  
-img/sakura.jpg  
+www/assets/data/images.json  
+www/assets/img/moon.jpg  
+www/assets/img/rainbow.jpg  
+www/assets/img/sakura.jpg  
 のように追加してから、  
 
     $ ionic serve
