@@ -1,4 +1,4 @@
-"# ionic3-json" 
+# ionic3-json 
 
 ionic3でアプリ内部にjsonファイルを用いた例
 
