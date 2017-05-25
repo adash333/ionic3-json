@@ -20,8 +20,8 @@ http://twosquirrel.mints.ne.jp/?p=17553
 www/assets/　フォルダ内に、  
 data/images.json  
 img/moon.jpg  
-    rainbow.jpg  
-    sakura.jpg  
+img/rainbow.jpg  
+img/sakura.jpg  
 を追加してから、  
 
     $ ionic serve
