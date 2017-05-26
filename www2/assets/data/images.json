@@ -1,17 +1,19 @@
-[
-  {
-    "path": "../img/sakura.jpg",
-    "name": "cherryblossoms",
-    "caption": "さくらーさくらー"
-  },
-  {
-    "path": "../img/rainbow.jpg",
-    "name": "rainbow",
-    "caption": "虹のかなたに"
-  },
-  {
-    "path": "../img/moon.jpg",
-    "name": "moon",
-    "caption": "まんまるお月さま"
-  }
-]
+{
+  "data": [
+    {
+      "path": "assets/img/sakura.jpg",
+      "name": "cherryblossoms",
+      "caption": "さくらーさくらー"
+    },
+    {
+      "path": "assets/img/rainbow.jpg",
+      "name": "rainbow",
+      "caption": "虹のかなたに"
+    },
+    {
+      "path": "assets/img/moon.jpg",
+      "name": "moon",
+      "caption": "まんまるお月さま"
+    }
+  ]
+}

@@ -17,9 +17,7 @@ export class ImageData {
 
   getJsonData() {
     
-    this.http.get('assets/data/images.json').map(res => res.json()).subscribe(data => {
-      console.log(data);
-    });
+    return this.http.get('assets/data/images.json').map(res => res.json());
 
   }
 
