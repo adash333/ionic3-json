@@ -48,5 +48,3 @@ https://www.amazon.co.jp/dp/B06XT19H2D/
 ## Author
 
 adash333
-
-作成中
